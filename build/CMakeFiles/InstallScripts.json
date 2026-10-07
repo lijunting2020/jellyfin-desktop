@@ -1,0 +1,24 @@
+{
+	"InstallScripts" : 
+	[
+		"/nas8t/lwork/git/jellyfin-desktop/build/cmake_install.cmake",
+		"/nas8t/lwork/git/jellyfin-desktop/build/external/cmake_install.cmake",
+		"/nas8t/lwork/git/jellyfin-desktop/build/src/cmake_install.cmake",
+		"/nas8t/lwork/git/jellyfin-desktop/build/src/shared/cmake_install.cmake",
+		"/nas8t/lwork/git/jellyfin-desktop/build/src/core/cmake_install.cmake",
+		"/nas8t/lwork/git/jellyfin-desktop/build/src/display/cmake_install.cmake",
+		"/nas8t/lwork/git/jellyfin-desktop/build/src/display/x11/cmake_install.cmake",
+		"/nas8t/lwork/git/jellyfin-desktop/build/src/display/dummy/cmake_install.cmake",
+		"/nas8t/lwork/git/jellyfin-desktop/build/src/player/cmake_install.cmake",
+		"/nas8t/lwork/git/jellyfin-desktop/build/src/utils/cmake_install.cmake",
+		"/nas8t/lwork/git/jellyfin-desktop/build/src/ui/cmake_install.cmake",
+		"/nas8t/lwork/git/jellyfin-desktop/build/src/input/cmake_install.cmake",
+		"/nas8t/lwork/git/jellyfin-desktop/build/src/system/cmake_install.cmake",
+		"/nas8t/lwork/git/jellyfin-desktop/build/src/settings/cmake_install.cmake",
+		"/nas8t/lwork/git/jellyfin-desktop/build/src/power/cmake_install.cmake",
+		"/nas8t/lwork/git/jellyfin-desktop/build/src/taskbar/cmake_install.cmake",
+		"/nas8t/lwork/git/jellyfin-desktop/build/src/mpris/cmake_install.cmake",
+		"/nas8t/lwork/git/jellyfin-desktop/build/tests/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

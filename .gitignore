@@ -2,7 +2,6 @@
 !/.github/**
 *.pro.user*
 dependencies/*
-/build/*
 deps/*
 dev/windows/deps/
 dev/macos/deps/

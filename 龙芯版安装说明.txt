@@ -1,0 +1,5 @@
+1.编译生成可执行程序路径：
+   build/src/
+
+2.程序运行
+   ./jellyfin-desktop

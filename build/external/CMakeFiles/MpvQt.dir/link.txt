@@ -1,0 +1,2 @@
+/usr/bin/ar qc libMpvQt.a CMakeFiles/MpvQt.dir/MpvQt_autogen/mocs_compilation.cpp.o CMakeFiles/MpvQt.dir/mpvqt/src/mpvabstractitem.cpp.o CMakeFiles/MpvQt.dir/mpvqt/src/mpvcontroller.cpp.o "CMakeFiles/MpvQt.dir/mpvrenderer-wrapper.cpp.o"
+/usr/bin/ranlib libMpvQt.a
