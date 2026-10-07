@@ -1,0 +1,16 @@
+-I
+/nas8t/lwork/git/jellyfin-desktop/build/src
+-I
+/nas8t/lwork/git/jellyfin-desktop/build/src/Konvergo
+-I
+/nas8t/lwork/git/jellyfin-desktop/build/src
+-I
+/usr/lib/qt6/qml
+--resource
+/nas8t/lwork/git/jellyfin-desktop/build/src/.qt/rcc/qmake_Konvergo.qrc
+--resource
+/nas8t/lwork/git/jellyfin-desktop/build/src/.qt/rcc/qmake_Konvergo_copy.qrc
+--resource
+/nas8t/lwork/git/jellyfin-desktop/build/src/.qt/rcc/JellyfinDesktop_raw_qml_0.qrc
+--module
+Konvergo

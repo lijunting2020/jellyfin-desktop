@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="webview.qml">/nas8t/lwork/git/jellyfin-desktop/src/ui/webview.qml</file>
+  </qresource>
+</RCC>
+
